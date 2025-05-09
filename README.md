@@ -6,4 +6,4 @@ Hello Everyone , This Project is a BMI Based Diet Suggestions contains of differ
  ![Image_Alt](https://github.com/bhavana050604/bmi/blob/dde82ca50480332764d4d94e83ff8b33c0ecb170/Screenshot%20(155).png)
  ![Image_Alt](https://github.com/bhavana050604/bmi/blob/dde82ca50480332764d4d94e83ff8b33c0ecb170/Screenshot%20(156).png)
  ![Image_Alt](https://github.com/bhavana050604/bmi/blob/dde82ca50480332764d4d94e83ff8b33c0ecb170/Screenshot%20(157).png)
- 1[Image_Alt](https://github.com/bhavana050604/bmi/blob/dde82ca50480332764d4d94e83ff8b33c0ecb170/Screenshot%20(158).png)
+ ![Image_Alt](https://github.com/bhavana050604/bmi/blob/dde82ca50480332764d4d94e83ff8b33c0ecb170/Screenshot%20(158).png)
